@@ -1,4 +1,8 @@
-# Welcome to the Complete Intro to React v4 and Intermediate React v1!
+# Adopt Me!
+
+This course is the culmination of the different skills in React I am knee deep in learning as I see it as something I should continually do.
+
+The best way for me to learn is through practical application so this felt like the best way to approach firming up my React knowledge.
 
 [See the course website here][v4].
 
